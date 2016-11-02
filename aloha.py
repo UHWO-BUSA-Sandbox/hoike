@@ -1,3 +1,3 @@
 # E komo mai!
 
-print("Aloha, honua.")
+print("Aloha ka honua.")
